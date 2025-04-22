@@ -73,8 +73,8 @@
 </p>
 
 ### 🌐 Let's Connect
+- LinkedIn: [linkedin.com/in/ahmed-siddique](https://www.linkedin.com/in/ahmed-siddique-2a1918247/)
 
-- LinkedIn: [linkedin.com/in/ahmed-siddique]([https://www.linkedin.com/in/ahmed-siddique](https://www.linkedin.com/in/ahmed-siddique-2a1918247/))
 - GitHub: [github.com/Ahmed3797](https://github.com/Ahmed3797)
 
 ---
