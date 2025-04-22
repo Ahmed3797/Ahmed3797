@@ -1,17 +1,82 @@
 <h1 align="center">Hi 👋, I'm Ahmed Siddique</h1>
-<h3 align="center">A passionate Computer Scientist from Pakistan</h3>
+<h3 align="center">An aspiring Full Stack Developer from Pakistan 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed3797&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed3797" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 📫 How to reach me **ch379796@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmed3797&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed3797" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed3797&show_icons=true&locale=en&layout=compact" alt="ahmed3797" /></p>
+- 🎯 I’m passionate about building end-to-end digital products
+- 🌱 Currently learning **Machine Learning**
+- 💼 Open to opportunities in Full Stack, AI, and Mobile Development
+- 📫 Reach me at **ch379796@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+</p>
+
+### 🔧 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react" />
+</p>
+
+### 🧠 Artificial Intelligence & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-6E6E6E?style=for-the-badge" />
+</p>
+
+### 📦 Featured Projects
+
+- 🥗 [Aam – Customer Website](https://github.com/Ahmed3797/Food-FrontEnd): React-powered frontend for a food ordering platform.
+- ⚙️ [Aam – Backend API](https://github.com/Ahmed3797/Food-MERN-API): REST API built with Express.js and MongoDB for the Aam app.
+- 🛠️ [Aam – Admin Panel](https://github.com/Ahmed3797/Food-Admin): Admin dashboard for managing orders, products, and categories.
+- 📈 [Bitcoin Tracker](https://github.com/Ahmed3797/Bitcoin-Price-UI): Real-time Bitcoin price viewer with state and modal management.
+
+---
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed3797&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed3797&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=ahmed3797&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+### 🌐 Let's Connect
+
+- LinkedIn: [linkedin.com/in/ahmed-siddique](https://www.linkedin.com/in/ahmed-siddique)
+- GitHub: [github.com/Ahmed3797](https://github.com/Ahmed3797)
+
+---
+
+📌 _Always curious, always learning — let's build something awesome together!_
